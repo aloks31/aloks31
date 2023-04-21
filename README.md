@@ -24,7 +24,7 @@ A Passionate Developer,Who loves to create beautiful and functional websites.Pro
 
 ⚡ Want to Know More About Experiance: [Check out My Resume](https://drive.google.com/file/d/1J79f-8ipQ356c5GNFfR97zW4lHiGXUvp/view?usp=sharing)<br>
 
-Want to know more about me? [Check out My Portfolio](https://aloks31.github.io/)
+Want to know more about me? [Check out My Portfolio](https://aloks31.github.io)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/alok_shekhawat/?next=%2F/)
